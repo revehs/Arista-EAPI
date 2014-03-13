@@ -5,7 +5,7 @@ from jsonrpclib import Server
 # 장비 접속
 switch = Server ( "http://admin:@gkstjs@14.63.250.195:7211/command-api" )
 
-#~~~~~~~~~RRRRRR444
+#~~~~~~~~~RRRRRR444555
 
 
 def desc_range():
