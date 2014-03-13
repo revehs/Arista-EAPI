@@ -13,7 +13,6 @@ for i in range(0,10):
 grades = {'ego': 10, 'k8805': 6, 'sorialgi': 80}
 for key in grades:
     print("key : %s \t value : %s" % (key, grades[key]))
-    
 '''
 
 #import tkMessageBox
