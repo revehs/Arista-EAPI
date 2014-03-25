@@ -3,7 +3,7 @@ from jsonrpclib import Server
 #import json
 
 # 장비 접속
-switch = Server ( "http://admin:@gkstjs@14.63.250.195:7211/command-api" )
+switch = Server ( "http:///command-api" )
 
 #~~~~~~~~~ RRRRRR444555
 
